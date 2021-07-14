@@ -7,6 +7,7 @@ En este curso se revisarán los siguientes temas:
 - Programación
 - Python 
 - R
+- Bioconductor 
 
 # Objetivo del curso: 
 
